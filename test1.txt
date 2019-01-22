@@ -2,6 +2,3 @@
 
 repo > dev
 가나다라
-
-repo > dev 
-파일 수정
